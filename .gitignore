@@ -1,0 +1,24 @@
+# Executáveis
+*.exe
+*.dll
+*.so
+
+# Pastas geradas
+backup/
+lib/
+
+# Arquivos temporários do Lazarus
+*.lps
+*.compiled
+*.ppu
+*.o
+*.or
+*.rsj
+
+# Configurações locais
+*.session
+*.local
+
+# Windows
+Thumbs.db
+Desktop.ini
