@@ -11,7 +11,7 @@ Ele foi desenvolvido com:
 
 - **Linguagem Pascal**
 - **Lazarus IDE**
--  **MariaDB** *
+-  **MariaDB** 
 
 O objetivo é praticar os conceitos de programação com Pascal e a construção de aplicações reais com interface gráfica.
 
@@ -36,7 +36,7 @@ para manter o repositório limpo e fácil de compartilhar.
 - **Pascal**
 - **Lazarus IDE**
 - **Git & GitHub**
-- **MariaDB** *(quando aplicável)*
+- **MariaDB**
 
 ---
 
